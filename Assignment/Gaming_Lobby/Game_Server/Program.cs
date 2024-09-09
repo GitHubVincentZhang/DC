@@ -12,9 +12,12 @@ namespace Game_Server
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Gaming Lobby Server Started");
-            ServiceHost host;
-            
+            using (ServiceHost host = new ServiceHost(typeof(Game_Server.LobbyService)))
+            {
+                host.Open();
+                Console.WriteLine("Lobby service is running...");
+                Console.ReadLine(); // Keep the server running
+            }
         }
     }
 }

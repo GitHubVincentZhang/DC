@@ -7,31 +7,39 @@ using System.Threading.Tasks;
 
 namespace Game_Server
 {
+
     [ServiceContract]
-    public interface IGamingLobbyService
+    public interface ILobbyService
     {
         [OperationContract]
         bool Login(string username);
 
         [OperationContract]
+        void Logout(string username);
+
+        [OperationContract]
+        List<string> GetAvailableRooms();
+
+        [OperationContract]
         bool CreateRoom(string roomName);
 
         [OperationContract]
-        bool JoinRoom(string roomName, string username);
+        bool JoinRoom(string username, string roomName);
 
         [OperationContract]
-        void LeaveRoom(string roomName, string username);
+        bool LeaveRoom(string username, string roomName);
 
         [OperationContract]
-        void SendMessage(string roomName, string message);
+        void SendMessage(string username, string message, string roomName);
+
+        [OperationContract]
+        List<string> GetMessages(string roomName);
 
         [OperationContract]
         void SendPrivateMessage(string fromUser, string toUser, string message);
 
         [OperationContract]
-        List<string> GetRooms();
-
-        [OperationContract]
-        List<string> GetRoomParticipants(string roomName);
+        void ShareFile(string username, string roomName, byte[] fileData, string fileName);
     }
+
 }
