@@ -45,8 +45,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="PlayerList.cs" />
-    <Compile Include="ServiceImp.cs" />
-    <Compile Include="ServiceInterface.cs" />
+    <Compile Include="LobbyService.cs" />
+    <Compile Include="ILobbyService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

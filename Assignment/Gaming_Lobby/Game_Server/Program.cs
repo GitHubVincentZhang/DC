@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.ServiceModel;
-using PlayerDLL;
+using System.ServiceModel.Description;
 
 namespace Game_Server
 {
@@ -12,12 +8,29 @@ namespace Game_Server
     {
         static void Main(string[] args)
         {
-            using (ServiceHost host = new ServiceHost(typeof(Game_Server.LobbyService)))
-            {
-                host.Open();
-                Console.WriteLine("Lobby service is running...");
-                Console.ReadLine(); // Keep the server running
-            }
+            Console.WriteLine("Welcome to the Mortal Kombat X Lobby Server!");
+
+            // This is the actual host service system
+            ServiceHost host;
+            // This represents a tcp/ip binding in the Windows network stack
+            NetTcpBinding tcp = new NetTcpBinding();
+            // Bind server to the implementation of LobbyService
+            host = new ServiceHost(typeof(LobbyService));
+
+            /* Present the publicly accessible interface to the client. 0.0.0.0 tells .NET to
+               accept on any interface. :8080 means this will use port 8080. LobbyService is a name for the
+               actual service, this can be any string. */
+            host.AddServiceEndpoint(typeof(ILobbyService), tcp, "net.tcp://0.0.0.0:8080/LobbyService");
+
+            // And open the host for business!
+            host.Open();
+            Console.WriteLine("Server is online and listening for connections...");
+
+            Console.WriteLine("Press Enter to shut down the server.");
+            Console.ReadLine();
+
+            // Don't forget to close the host after you're done!
+            host.Close();
         }
     }
 }

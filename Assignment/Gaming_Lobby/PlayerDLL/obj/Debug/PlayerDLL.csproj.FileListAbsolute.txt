@@ -1,0 +1,6 @@
+C:\Distributed Computing\Assignment\Gaming_Lobby\PlayerDLL\bin\Debug\PlayerDLL.dll
+C:\Distributed Computing\Assignment\Gaming_Lobby\PlayerDLL\bin\Debug\PlayerDLL.pdb
+C:\Distributed Computing\Assignment\Gaming_Lobby\PlayerDLL\obj\Debug\PlayerDLL.csproj.AssemblyReference.cache
+C:\Distributed Computing\Assignment\Gaming_Lobby\PlayerDLL\obj\Debug\PlayerDLL.csproj.CoreCompileInputs.cache
+C:\Distributed Computing\Assignment\Gaming_Lobby\PlayerDLL\obj\Debug\PlayerDLL.dll
+C:\Distributed Computing\Assignment\Gaming_Lobby\PlayerDLL\obj\Debug\PlayerDLL.pdb
