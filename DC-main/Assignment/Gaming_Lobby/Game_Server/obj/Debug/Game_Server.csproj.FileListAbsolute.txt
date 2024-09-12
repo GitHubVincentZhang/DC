@@ -1,0 +1,30 @@
+C:\Distributed Computing\Assignment\Gaming_Lobby\Game_Server\bin\Debug\Game_Server.exe.config
+C:\Distributed Computing\Assignment\Gaming_Lobby\Game_Server\bin\Debug\Game_Server.exe
+C:\Distributed Computing\Assignment\Gaming_Lobby\Game_Server\bin\Debug\Game_Server.pdb
+C:\Distributed Computing\Assignment\Gaming_Lobby\Game_Server\bin\Debug\PlayerDLL.dll
+C:\Distributed Computing\Assignment\Gaming_Lobby\Game_Server\bin\Debug\PlayerDLL.pdb
+C:\Distributed Computing\Assignment\Gaming_Lobby\Game_Server\obj\Debug\Game_Server.csproj.AssemblyReference.cache
+C:\Distributed Computing\Assignment\Gaming_Lobby\Game_Server\obj\Debug\Game_Server.csproj.CoreCompileInputs.cache
+C:\Distributed Computing\Assignment\Gaming_Lobby\Game_Server\obj\Debug\Game_Ser.E06C5DAB.Up2Date
+C:\Distributed Computing\Assignment\Gaming_Lobby\Game_Server\obj\Debug\Game_Server.exe
+C:\Distributed Computing\Assignment\Gaming_Lobby\Game_Server\obj\Debug\Game_Server.pdb
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\bin\Debug\Game_Server.exe.config
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\bin\Debug\Game_Server.exe
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\bin\Debug\Game_Server.pdb
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\bin\Debug\PlayerDLL.dll
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\bin\Debug\PlayerDLL.pdb
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\obj\Debug\Game_Server.csproj.AssemblyReference.cache
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\obj\Debug\Game_Server.csproj.CoreCompileInputs.cache
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\obj\Debug\Game_Ser.E06C5DAB.Up2Date
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\obj\Debug\Game_Server.exe
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\obj\Debug\Game_Server.pdb
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\bin\Debug\Game_Server.exe.config
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\bin\Debug\Game_Server.exe
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\bin\Debug\Game_Server.pdb
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\bin\Debug\PlayerDLL.dll
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\bin\Debug\PlayerDLL.pdb
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\obj\Debug\Game_Server.csproj.AssemblyReference.cache
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\obj\Debug\Game_Server.csproj.CoreCompileInputs.cache
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\obj\Debug\Game_Ser.E06C5DAB.Up2Date
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\obj\Debug\Game_Server.exe
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\Game_Server\obj\Debug\Game_Server.pdb

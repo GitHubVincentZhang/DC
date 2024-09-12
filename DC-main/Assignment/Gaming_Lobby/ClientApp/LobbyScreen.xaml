@@ -1,0 +1,18 @@
+﻿<Window x:Class="ClientApp.LobbyScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientApp"
+        mc:Ignorable="d"
+        Title="LobbyScreen" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="RoomsListBox" HorizontalAlignment="Left" Margin="10,101,0,0" VerticalAlignment="Top" Width="200" Height="200"/>
+        <TextBox x:Name="RoomNameTextBox" HorizontalAlignment="Left" Margin="475,173,0,0" VerticalAlignment="Top" Width="200"/>
+        <Button Name="CreateRoomButton" FontSize="16.25" Content="Create Room" Width="100" Height="45" Margin="527,197,0,192" Click="CreateRoomButton_Click" 
+HorizontalAlignment="Left" RenderTransformOrigin="0.335,-0.236"/>
+        <Button Name="JoinRoomButton" FontSize="16.25" Content="Join Room" Width="100" Height="45" Margin="0,159,460,230" Click="JoinRoomButton_Click" 
+HorizontalAlignment="Right"/>
+        <TextBlock Text="List of Joinable Lobbies" FontSize="20" Height="30" FontWeight="Bold" Margin="4,66,572,338"/>
+    </Grid>
+</Window>

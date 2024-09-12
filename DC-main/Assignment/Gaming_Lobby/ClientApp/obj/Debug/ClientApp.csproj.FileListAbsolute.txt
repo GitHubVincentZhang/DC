@@ -1,0 +1,54 @@
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\App.g.cs
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp_MarkupCompile.cache
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp_MarkupCompile.lref
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp.g.resources
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\bin\Debug\Game_Server.exe
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\bin\Debug\PlayerDLL.dll
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\bin\Debug\Game_Server.pdb
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\bin\Debug\Game_Server.exe.config
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\bin\Debug\PlayerDLL.pdb
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\InLobbyScreen.g.cs
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\LobbyScreen.g.cs
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\LoginScreen.g.cs
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\PrivateChatScreen.g.cs
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\InLobbyScreen.baml
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\LobbyScreen.baml
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\LoginScreen.baml
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\PrivateChatScreen.baml
+C:\Users\Toma\Desktop\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp.csproj.Up2Date
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\bin\Debug\Game_Server.exe
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\bin\Debug\PlayerDLL.dll
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\bin\Debug\Game_Server.pdb
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\bin\Debug\Game_Server.exe.config
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\bin\Debug\PlayerDLL.pdb
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\InLobbyScreen.g.cs
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\LobbyScreen.g.cs
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\LoginScreen.g.cs
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\PrivateChatScreen.g.cs
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\App.g.cs
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp_MarkupCompile.cache
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp_MarkupCompile.lref
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\InLobbyScreen.baml
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\LobbyScreen.baml
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\LoginScreen.baml
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\PrivateChatScreen.baml
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp.g.resources
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp.csproj.Up2Date
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\Toma Okabayashi\Desktop\DC-main-newone-Toma\DC-main\DC-main\Assignment\Gaming_Lobby\ClientApp\obj\Debug\ClientApp.pdb
