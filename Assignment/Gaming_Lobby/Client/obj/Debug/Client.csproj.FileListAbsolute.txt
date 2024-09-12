@@ -2,3 +2,7 @@ C:\Distributed Computing\Assignment\Gaming_Lobby\Client\obj\Debug\Client.csproj.
 C:\Distributed Computing\Assignment\Gaming_Lobby\Client\obj\Debug\MainWindow.g.cs
 C:\Distributed Computing\Assignment\Gaming_Lobby\Client\obj\Debug\Client_MarkupCompile.cache
 C:\Distributed Computing\Assignment\Gaming_Lobby\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Distributed Computing\DC\DC\Assignment\Gaming_Lobby\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Distributed Computing\DC\DC\Assignment\Gaming_Lobby\Client\obj\Debug\MainWindow.g.cs
+C:\Distributed Computing\DC\DC\Assignment\Gaming_Lobby\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Distributed Computing\DC\DC\Assignment\Gaming_Lobby\Client\obj\Debug\Client_MarkupCompile.lref
